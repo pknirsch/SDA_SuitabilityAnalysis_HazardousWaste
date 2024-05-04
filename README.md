@@ -1,5 +1,42 @@
 # SDA_SuitabilityAnalysis_HazardousWaste
 
+##Workflow
+1. Add all layers and check if right extent and projection
+2. Reproject all Layers to 3301
+  - Reprojected Protected Areas from 3035 to 3301
+  - Reprojected Soil texture Type Dataset (FAO) from 4326 to 3301
+
+
+3. Convert all Vector Dataset to Raster datasets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. Define Exclusion Criteria
 
