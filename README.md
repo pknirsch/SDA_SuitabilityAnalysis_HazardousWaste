@@ -6,13 +6,22 @@
   - Reprojected Protected Areas from 3035 to 3301
   - Reprojected Soil texture Type Dataset (FAO) from 4326 to 3301
 
+3. Clip all vector data to borders of estonia
+  - Clipped protectedAreas to Estonian land border
+  - DISCARDED DATASET: Clipped standing surface water to estonian land borders
+  - Clipped Rivers to Borders
+  - Clipped LandUse to Borders
+  - SoilType_Estonia3301 - Necessary? Check again
+5. 
 
+filter out surface water
 3. Convert all Vector Dataset to Raster datasets
 
 
 
 
 
+Water & Wetlands --> Surface Water - Unsuitable
 
 
 
