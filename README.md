@@ -16,3 +16,9 @@ Evaluation Criteria?:
 
 
 https://journals.sagepub.com/doi/10.1177/0734242X221124069
+
+https://geoportaal.maaamet.ee/eng/spatial-data/geological-data/geological-base-map-1-50-000/thematic-maps-of-the-geological-base-map-p726.html
+
+https://geoportaal.maaamet.ee/eng/Spatial-Data/Geological-Data/Geological-maps-1-400-000/Download-Geological-Maps-Data-p543.html
+
+https://xgis.maaamet.ee/xgis2/page/app/geoloogia400k
