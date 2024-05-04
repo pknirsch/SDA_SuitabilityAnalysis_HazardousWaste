@@ -7,3 +7,12 @@
 
 
 ProtectedAreas_Estonia.gpkg
+
+
+
+
+Evaluation Criteria?:
+- Elevation - high better- distance from sea level can cause pollution problems
+
+
+https://journals.sagepub.com/doi/10.1177/0734242X221124069
